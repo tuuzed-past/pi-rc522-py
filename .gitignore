@@ -1,0 +1,4 @@
+.idea
+*.pyc
+sdk/__pycache__
+sdk/build
